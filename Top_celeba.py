@@ -7,6 +7,8 @@ from torchvision.datasets import ImageFolder
 import zipfile
 import pickle
 from PIL import Image
+import argparse
+
 
 import numpy as np
 import matplotlib.pyplot as plt
